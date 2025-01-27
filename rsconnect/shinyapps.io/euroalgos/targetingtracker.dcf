@@ -1,0 +1,13 @@
+name: targetingtracker
+title: targetingtracker
+username: euroalgos
+account: euroalgos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13821569
+bundleId: 9707824
+url: https://euroalgos.shinyapps.io/targetingtracker/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
